@@ -107,7 +107,6 @@ def run_2(x_train, y_train, x_test, y_test, alternative_dst=False, metric="eucli
     test_y_pred = pred_test.astype(int)
 
     cnf_test = confusion_matrix(test_y_true, test_y_pred)
-    print(np.trace(cnf_test))
     print("Test accuracy: {} ({} / {})".format((np.trace(cnf_test) / obj.x_test.shape[0] * 100), np.trace(cnf_test),
                                                len(data_test)))
     print("\n test:\n", cnf_test)

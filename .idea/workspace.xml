@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de4c1549-9e4c-4133-9715-1d451e42794a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01_practical-assignment/tmp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_practical-assignment/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_practical-assignment/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_practical-assignment/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_practical-assignment/utils.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/4343NEUNW$task_3.coverage" NAME="task_3 Coverage Results" MODIFIED="1551897226306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_practical-assignment" />
-    <SUITE FILE_PATH="coverage/4343NEUNW$task_1.coverage" NAME="task_1 Coverage Results" MODIFIED="1551897542714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_practical-assignment" />
+    <SUITE FILE_PATH="coverage/4343NEUNW$task_1.coverage" NAME="task_1 Coverage Results" MODIFIED="1551899945707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_practical-assignment" />
     <SUITE FILE_PATH="coverage/4343NEUNW$task_2.coverage" NAME="task_2 Coverage Results" MODIFIED="1551897082636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_practical-assignment" />
   </component>
   <component name="DatabaseView">
@@ -34,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01_practical-assignment/task_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="95" column="16" lean-forward="true" selection-start-line="95" selection-start-column="16" selection-end-line="96" selection-end-column="95" />
+            <state relative-caret-position="384">
+              <caret line="125" column="18" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
               <folding>
                 <element signature="e#22#69#0" expanded="true" />
               </folding>
@@ -46,8 +48,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01_practical-assignment/task_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+            <state relative-caret-position="344">
+              <caret line="109" column="29" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
+              <folding>
+                <element signature="e#22#69#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01_practical-assignment/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="27" lean-forward="true" selection-start-line="7" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="105">
+              <caret line="7" column="105" selection-start-line="7" selection-start-column="105" selection-end-line="7" selection-end-column="105" />
               <folding>
                 <element signature="e#22#69#0" expanded="true" />
               </folding>
@@ -97,10 +102,11 @@
         <option value="$PROJECT_DIR$/01_practical-assignment/load-data.py" />
         <option value="$PROJECT_DIR$/01_practical-assignment/Assignment_1.ipynb" />
         <option value="$PROJECT_DIR$/01_practical-assignment/get_data.py" />
+        <option value="$PROJECT_DIR$/01_practical-assignment/task_3.py" />
+        <option value="$PROJECT_DIR$/01_practical-assignment/4343NEUNW_A1.ipynb" />
         <option value="$PROJECT_DIR$/01_practical-assignment/utils.py" />
         <option value="$PROJECT_DIR$/01_practical-assignment/task_1.py" />
         <option value="$PROJECT_DIR$/01_practical-assignment/task_2.py" />
-        <option value="$PROJECT_DIR$/01_practical-assignment/task_3.py" />
       </list>
     </option>
   </component>
@@ -259,17 +265,18 @@
       <updated>1551810708304</updated>
       <workItem from="1551810713282" duration="15000" />
       <workItem from="1551810754085" duration="17154000" />
-      <workItem from="1551883686897" duration="13844000" />
+      <workItem from="1551883686897" duration="14535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31013000" />
+    <option name="totallyTimeSpent" value="31704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49602544" visible="true" weight="0.12942614" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49602544" visible="true" weight="0.12942614" />
       <window_info id="Structure" order="1" sideWeight="0.50397456" side_tool="true" visible="true" weight="0.12942614" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -289,7 +296,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49602544" visible="true" weight="0.24481075" />
+      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.49602544" visible="true" weight="0.24481075" />
       <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
     </layout>
     <layout-to-restore>
@@ -351,15 +358,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_practical-assignment/task_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="95" column="16" lean-forward="true" selection-start-line="95" selection-start-column="16" selection-end-line="96" selection-end-column="95" />
-          <folding>
-            <element signature="e#22#69#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/01_practical-assignment/4343NEUNW_A1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/01_practical-assignment/task_3.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -373,8 +380,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01_practical-assignment/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="27" lean-forward="true" selection-start-line="7" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="105">
+          <caret line="7" column="105" selection-start-line="7" selection-start-column="105" selection-end-line="7" selection-end-column="105" />
+          <folding>
+            <element signature="e#22#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_practical-assignment/task_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="125" column="18" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
           <folding>
             <element signature="e#22#69#0" expanded="true" />
           </folding>
@@ -383,8 +400,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01_practical-assignment/task_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        <state relative-caret-position="344">
+          <caret line="109" column="29" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
+          <folding>
+            <element signature="e#22#69#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

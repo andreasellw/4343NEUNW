@@ -5,7 +5,7 @@ from builtins import range, input
 import numpy as np
 import pandas as pd
 
-url_github = 'https://raw.githubusercontent.com/andreasellw/4343NEUNW/master/01_practical-assignment/data/'
+url_github = 'https://raw.githubusercontent.com/ndrsllwngr/4343NEUNW/master/01_practical-assignment/data/'
 url_local = "data/"
 
 
